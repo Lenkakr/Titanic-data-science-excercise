@@ -1,4 +1,2 @@
 # Titanic-data-science-excercise
-Analyses of survival factors on Titanic
-
-Data analysis trial project, based on Titanic disaster survivals.
+Data analysis of survival factors on Titanic, based on Kaggle data set. I used this project as a first hands on experience with data science in Python. I analysed the data with Pandas and NumPy library, used Seaborn and Matplotlib for visualisations and Scikit-learn for machine learning (logistic regression).
